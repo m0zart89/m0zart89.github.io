@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Михайленко Евгений Павлович</title>
+      <link>/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>Возраст: 31 год
+Опыт: 8 лет
+Email: e.p.mihailenko@gmail.com
+Мобильный телефон: +373 (778) 42309
+Telegram: @mozart89 – предпочитаемый способ связи
+Проживает: Республика Молдова, Приднестровье, г. Тирасполь
+Желаемая должность: DevOps, Cloud Engineer, Backend
+Занятость: полная
+График работы: полный день, удалённая работа
+Ключевые навыки: OpenStack, Ceph, Bash, Python, IPMI, PHP, Docker, Git, Gitlab, IaC, MySQL, API, KVM, Администрирование серверов Linux, Системы мониторинга сетей, Highload, Системная интеграция, Управление проектами, Запуск новых продуктов, Английский язык, Teamleading.</description>
+    </item>
+    
+  </channel>
+</rss>
