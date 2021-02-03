@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Портфолио</title>
+    <link>/en/</link>
+    <description>Recent content on Портфолио</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mikhailenko Eugen</title>
+      <link>/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/en/</guid>
+      <description>Age: 31
+Experience: 8
+Email: e.p.mihailenko@gmail.com
+Mobile: +373 (778) 42309
+Skype: m0zart89 - preferred communication method
+Location: Tiraspol, Republic of Moldova
+Desired Job Title: DevOps, Cloud Engineer, Backend
+Desired Job Type: Full-time
+Desired Work Schedule: Monday to Friday, remote
+Skills: OpenStack, Ceph, Bash, Python, IPMI, PHP, Docker, Git, Gitlab, IaC, MySQL, API, KVM, Linux server administration, network monitoring systems, Highload, System integration, Project management, new product launch, English language, Team leading.</description>
+    </item>
+    
+  </channel>
+</rss>
